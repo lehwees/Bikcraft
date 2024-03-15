@@ -20,6 +20,7 @@
         min-width: 280px;
         flex: 1;
     }
+
 }
 
 .bicicletas-itens h3::before{
@@ -52,6 +53,10 @@
     margin-left: auto;
     margin-right: auto;
     overflow-x: auto;
+}
+
+#bicicleta .bicicletas-listas ul{
+    padding: 0px 20px 0px 0px;
 }
 
 
